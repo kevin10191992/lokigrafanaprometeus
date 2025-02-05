@@ -116,3 +116,4 @@ C:\Users\kevin\OneDrive\Escritorio\ejemplos\lokigrafanaprometeus\appTelemetry\te
 C:\Users\kevin\OneDrive\Escritorio\ejemplos\lokigrafanaprometeus\appTelemetry\telemetryapp\bin\Debug\net8.0\Grpc.Net.Client.dll
 C:\Users\kevin\OneDrive\Escritorio\ejemplos\lokigrafanaprometeus\appTelemetry\telemetryapp\bin\Debug\net8.0\Grpc.Net.Common.dll
 C:\Users\kevin\OneDrive\Escritorio\ejemplos\lokigrafanaprometeus\appTelemetry\telemetryapp\bin\Debug\net8.0\Serilog.Sinks.OpenTelemetry.dll
+C:\Users\kevin\OneDrive\Escritorio\ejemplos\lokigrafanaprometeus\appTelemetry\telemetryapp\obj\Debug\net8.0\telemetryapp.sourcelink.json
