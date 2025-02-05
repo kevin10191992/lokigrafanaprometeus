@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8TvEqD8pjYL6klagrue1CDMi/k4ckX/hREQ77gL/bcU=",
+  "Source": "telemetryapp",
+  "BasePath": "_content/telemetryapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
