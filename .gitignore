@@ -484,3 +484,4 @@ $RECYCLE.BIN/
 *.swp
 appTelemetry/telemetryapp/bin
 appTelemetry/telemetryapp/bin/Debug/
+appTelemetry/telemetryapp/obj/
